@@ -8,7 +8,8 @@
 }
 
 body{
-    font-family: 'Noto Sans', 'sans-serif';
+    font-family: 'Noto Sans', 'Arial';
+    font-weight: 700;
     background-color: #555;
     color: rgba(245, 243, 243, 0.767);
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
